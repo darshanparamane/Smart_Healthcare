@@ -74,8 +74,7 @@ Most of the patients die from negligence as they hesitate to visit a doctor even
 
 ## Instructions:
 ### 1. Clone
-### 2. You'll need model weights...so....
-![alt text](https://media.makeameme.org/created/gimme-money-or-6f5ba165c2.jpg)
+### 2. Train
 
 Put the weights.h5 file in the 'skin_cancer' folder
 ### 3. Stay at root and run 
